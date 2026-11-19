@@ -1,4 +1,16 @@
 card_set,character,anime,name,wincon,ability_name,ability_text,ability_type,callouts,design_notes
+buscemi,,,Almighty,The highest HP characters die,Wrath,"[color=white;dimgray](Start [color=white;dimgray]of [color=white;dimgray]turn, [color=white;dimgray]while [color=white;dimgray]dead) You may deal 1 damage to everyone",,,
+buscemi,,,Bowler,Die first or be the only surviving Neutral,"Donnie, you're out of your element","If a character lands on Weird Woods, they must use it to damage you",,,
+buscemi,,,Conjurer,"Kill a character with 13+ HP or 
+ You and your [color=red]Bloated [color=red]Corpse get 2 total kills and you survive",Summon Bloated Corpse,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) When you kill a character, they respawn as a C Neutral with 7 damage and no Special Ability and the Win Condition ""Conjurer wins""",,,
+buscemi,,,Diamond Thief,"Move to the Cemetery or Erstwhile Altar while having at least 2 of: Handgun, Brooch, Talisman",Quick Thinking,"When you draw [color=black;cornflowerblue]Moody [color=black;cornflowerblue]Goblin, draw another card from any deck",,,
+buscemi,,,Edelweiss,All Shadows are dead,Balm,"When you are targeted by a [color=black;cornflowerblue]Black single use card 
+ Deal 1d4 damage to someone",,,
+buscemi,,,Father,All Shadows are dead,Holy Rod,"When you attack, if the target is a Hunter, they heal for the damage dealt",,,
+buscemi,,,Gangster,All Shadows are dead,Strength in numbers,"If you share a Location with a Hunter, you can Steal an [color=white;darkgreen]Equipment from anyone in your Attack Range",,,
+buscemi,,,Urgh?,All Hunters are dead or 3 Neutrals are dead,Is this right?,"If a [color=black;darkgreen]Green card asks for [color=black;darkgreen]Equipment, it affects you, otherwise nothing happens.  You do this without revealing",,,
+buscemi,,,Vig,All Hunters are dead or 3 Neutrals are dead,It'll cost you,Players must take 1 damage to draw a Green card,,,
+buscemi,,,Waiter,All Hunters are dead or 3 Neutrals are dead,What'll you have,"Instead of resolving a Location card, you may choose to take an [color=black;darkgreen]Equipment from one character and give it to another",,,
 anime10,Serebryakov,The Saga of Tanya the Evil,Adjutant,You win if you are alive at the end of the game OR if the Hunters win.,Strong Appetite,"Once per game, at the start of your turn, you may search the White deck for [color=white;cornflowerblue]Chocolate and use it. Your win condition becomes ""You win if the Hunters win.""",Active,,
 anime10,Faye,Cowboy Bebop,Burdened,You win if you have the most Equipment cards at the end of the game.,Wipe Away the Debt,"Equipment cards you have cannot be stolen or manipulated. Abilities affecting characters' Equipment cards must treat you  as ""out of play"" and skip over you (whatever makes the most sense in the context of the ability). If you die, your Equipment cards are handled normally.",Passive,,
 anime10,Madlax,Madlax,Contract Killer,You win if you are alive when the Shadows win or dead when the Hunters win.,Aerial Insertion,"If you start your turn in the Weird Woods, you may choose to resolve that location again. If you do this, move at the end of your turn instead. Do not resolve the new location after moving.",Active,,
@@ -32,6 +44,17 @@ robots,,,Gundam,All of the Shadow characters are dead.,Shining Finger,Deal 1 add
 robots,,,Über Sentry,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Auto-Lock,Characters moving to your location take 1 damage.,,,
 robots,,,Voltron,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Safety in Numbers,Deal 1 additional damage when attacking characters with fewer Equipment cards than you.,,,
 robots,,,Wall-E,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Recycling,"At the start of your turn, you may discard an Equipment card and draw from the deck of the same color.",,,
+list,,,Abdominal Snowman,Survive with the most damage,Frozen Wrath,"When you would take lethal damage, search the discard for [color=white;cornflowerblue]Wrath.  If you find it, discard it, deal 4 damage to all characters, then place your damage marker at 6",,,
+list,,,Bitch Doctor,Only 1 character of each faction survives,"Try again, Bitch","[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]round)  When you are at Weird Woods or Hermit's Cabin, you may force a reroll",,,
+list,,,Car Man Sam Diego,Your Stashed card is drawn,Always have a head stash,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) When you draw a card, shuffle (Stash) it into any deck.",,,
+list,,,Dangergrouse,Survive with at most 1 other character,Long range support,"Reveal when a character dies.  When a character dies, roll for Location and deal 1d6 damage to characters at that Location",,,
+list,,,Exacto Knight,All Shadows are dead,Exacting Detail,"When attacking, you may add or subtract 1 damage. When attacking, if you deal the exact amount of damage needed to kill your target, take all of their Equipment and take another turn",,,
+list,,,Full Monty Cristo,All Shadows are dead,"Salivation, delivered","[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game, [color=white;dimgray]refreshes [color=white;dimgray]when [color=white;dimgray]Wrath [color=white;dimgray]is [color=white;dimgray]discarded) Redirect a single use card to a different target.",,,
+list,,,Gorgonzilla,All Shadows are dead,Supreme Saga,"While you are the only character with 13+ HP, you may add 2 damage to your attacks",,,
+list,,,Unitard,All Hunters are dead or 3 Neutrals are dead,Where the action is,"[color=white;dimgray](Start [color=white;dimgray]of [color=white;dimgray]turn) Instead of rolling for movement, you may move to the most populous Location (you choose if tied, this excludes your current Location)",,,
+list,,,Vince-able,All Hunters are dead or 3 Neutrals are dead,Gaslighting isn't real,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]turn) You may take 2 damage and change 1 word on an Equipment card you control or an Event card drawn by or targeting you. You do not reveal to do this to [color=green]Green cards. 
+ Words revert to normal at the start of your turn.",,,
+list,,,Wes Turn,All Hunters are dead or 3 Neutrals are dead,"Pardon me, places to be",[color=white;dimgray](Twice [color=white;dimgray]per [color=white;dimgray]game) You may interrupt another player's turn and take a turn.,,,
 scp,SCP-055,,Antimeme,You win if you have the least damage (you may tie) OR you die first.,[REDACTED],"You may not reveal yourself until you die, and you must respond to all Green cards with ""nothing happens"" (you do not reveal to do this). If you die, your damage is 8 for the purposes of your win condition.",Passive,,
 scp,SCP-096,,Bashful,You win if every character who has seen your character card is dead at the end of the game.,No Witnesses,"You must secretly reveal your character to anyone who gives you a Green card. 
  If you would receive fatal damage, reveal and fully heal. Your win condition becomes ""You win if you are the only character alive. No one else can win while you are alive.""",Passive,,
@@ -242,6 +265,44 @@ cage,,,Gear Shifter,All of the Shadow characters are dead.,Carjacking,"If you la
 cage,,,Universal Rot,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Frightful Messenger,"If you end your turn at the Weird Woods, heal 1 damage and deal 2 damage to all other characters at that location.",,,
 cage,,,Vampire,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Gain Servant,"Once per game, if you move a revealed Neutral character's damage counter to 7 or higher, they gain your win condition. For the rest of the game, once per turn you may deal 1 damage to that character to heal 1 damage.",,,
 cage,,,Wraith,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Penance Stare,"If you take damage from an attack, you may deal the same amount of damage to the attacking character. (Only once per game)",,,
+castlevania2,,,Armor Knight,Survive with at most 1 other character,Heavy Armour,All damage to you is reduced by 2.,,,
+castlevania2,,,Bomb Knight,Everyone has 7+ damage when the game ends,Bomberknight,"When a single use card is used, you may deal 3 damage to either the user or the target.",,,
+castlevania2,,,Cerberus,"Die first, or 
+ The player to heal you most recently wins",Guard dog of Hell,"When you are at Underworld Gate, your attacks do 1d4+1 damage.",,,
+castlevania2,,,Dullahan,"Kill a Shadow Or Hunter with 13+ HP or 
+ be at the Cemetery with the Talisman when the game ends",Grave Danger,"While at the Cemetery, your attacks may do +2 damage.",,,
+castlevania2,,,Efreet,All Shadows are dead,Immolate,"When at Underworld Gate, instead of resolving the Location, you may take [color=black;cornflowerblue]Dynamite from the deck. 
+ Instead of drawing a [color=black;white]Black card, you may shuffle [color=black;cornflowerblue]Dynamite back into the deck. 
+ When using [color=black;cornflowerblue]Dynamite, you choose the Location.",,,
+castlevania2,,,Frog,All Shadows are dead,Long Tongue,You may attack Locations adjacent to your Attack Range,,,
+castlevania2,,,Granfaloon,All Shadows are dead,Legion,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Deal 3 damage to all characters at the most populous Location.  If there is a tie, affect all tying Locations.",,,
+castlevania2,,,Ukoback,All Hunters are dead or 3 Neutrals are dead,Fireballs,Reveal when another character moves to your Location.  Deal 1 damage to each character that moves to your Location.,,,
+castlevania2,,,Venus Weed,All Hunters are dead or 3 Neutrals are dead,Glistening Blades,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Deal 1d4 damage to up to 2 different targets. You must hit as many different targets as possible.,,,
+castlevania2,,,White Dragon,All Hunters are dead or 3 Neutrals are dead,Dragon Breath,"When at the Underworld Gate, instead of resolving the Location, you may take [color=white;cornflowerblue]Judgement from the deck. 
+ When drawing a [color=white;dimgray]White card, you may instead shuffle [color=white;cornflowerblue]Judgement into the deck. 
+ When using [color=white;cornflowerblue]Judgement, you may choose the targets.",,,
+venture3,,,Associates,You win if you survive and have given an Equipment card to every other surviving character.,Let's Make a Deal,"At the start of your turn, you may give another character an Equipment card.",,,
+venture3,,,Bowie,You win if you have the Fortune Brooch and Talisman and are at the Erstwhile Altar.,Shapeshift/Execute,"You must reveal if you have the Fortune Brooch or Talisman. If you kill another character, you may replace your win condition and ability with theirs. If a character is within 2 damage of death you may deal 2 damage to them.",,,
+venture3,,,Contender,You win if you die first or the first character you successfully attack loses.,Punchable,"If you successfully attack another character, they must immediately attack you (their attack doesn't use Equipment cards).",,,
+venture3,,,Dutiful,You win if all other Neutrals survive or you kill a character who killed a Neutral.,Body Block,"If another character would take damage from an attack, you may choose to take that damage instead.",,,
+venture3,,,Engineer,All of the Shadow characters are dead.,Just to Make it Even,You may use the damage bonuses of the character with the most Equipment cards instead of your own when attacking.,,,
+venture3,,,Fed,All of the Shadow characters are dead.,Undercover,"You may respond to Green cards as if you were a Shadow. Once per game, you may block an incoming attack.",,,
+venture3,,,Gentleman,All of the Shadow characters are dead.,The Rusty Venture,You may choose to heal for 2 damage instead of resolving a location on your turn. You cannot use this ability two turns in a row.,,,
+venture3,,,Unilateral,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Supreme Leader,"When declaring an attack, if you are in the attack range of another revealed Shadow, you may both attack your target. (Only once per game)",,,
+venture3,,,Vigorous,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Shakedown,Every other character must give you an Equipment card. If they cannot they take 1 damage. (Only once per game),,,
+venture3,,,Wanted,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Decoy Body,"Once per game, take Dark Ritual from the discard pile and place it and the top 4 cards of the Black deck back onto the deck in any order you choose.",,,
+ferrets,,,Agro,Everyone has 7+ damage when the game ends.,War Dance,"[color=white;gray](Once [color=white;gray]per [color=white;gray]game) When an attack is declared, you may cause it to damage all characters",,,
+ferrets,,,Body Man,Die first,Body Block,"You may choose to be the target of an attack.  If you survive and prevent the game from ending, you win",,,
+ferrets,,,Collector,Survive or have at least 3 Equipment when you die,Recompense,"When someone attacks you and misses, you can steal an Equipment from them",,,
+ferrets,,,Dolem,"Be the only surviving Neutral (6+) 
+ Survive with at most 1 other character (5-)",Stone Constitution,"You only take damage from attacks 
+ Successful attacks do +1 damage to you",,,
+ferrets,,,Elder,All Shadows are dead,Green Seer,[color=white;gray](Once [color=white;gray]per [color=white;gray]game) Look at someone's character card,,,
+ferrets,,,Fortress,All Shadows are dead,Protect the Innocent,"When you share a location with a Hunter or Neutral, attacks targeting a Hunter or Neutral do -1 damage",,,
+ferrets,,,Guile,All Shadows are dead,Guile,Green cards that cause you damage instead do nothing.  Use this without revealing,,,
+ferrets,,,Ursa,All Hunters are dead or 3 Neutrals are dead,Wild Instinct,"At Weird Woods, your attacks do 1d4+1 damage.  When moving from Weird Woods, you may choose an adjacent Location instead of rolling",,,
+ferrets,,,Vile Rat,All Hunters are dead or 3 Neutrals are dead,Diplomacy,"[color=white;gray](Once [color=white;gray]per [color=white;gray]game) Target Neutral in your location gains the win condition: ""or all Hunters are dead""",,,
+ferrets,,,Wisher,All Hunters are dead or 3 Neutrals are dead,"Hey, that's cheating!",[color=white;gray](Once [color=white;gray]per [color=white;gray]game) Draw a card from each deck,,,
 arcade,,,Armored Fighting Vehicle,Survive with at least one kill at the end of the game.,Metal Slug/Heavy Machine Gun,Once per game you may fully heal your damage. Before using this ability your attacks do plus 1 damage. After using it the Machine Gun gives you plus 1 to damage.,,,
 arcade,,,Brutal,You win if you kill the first character to damage you and you have 6 or more damage when the game ends OR you survive with at most one other character alive at the end of the game.,Raging Demon,"You cannot be targeted by the Weird Woods. 
  If you have 6 or more damage, you can deal 4 damage to a character in your attack range at the start of your turn. (Once per game)",,,
@@ -255,6 +316,26 @@ arcade,,,G,All of the Shadow characters are dead.,Insert Token,You may discard a
 arcade,,,Unifier,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Master of Magnet,"Once per turn, at the start of your turn, if you share a location with a character that has an equipment that adds damage to attacks you may make them discard one of them.",,,
 arcade,,,Virulent,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Giant Mecha Clone,You deal plus 1 damage to attacks while under 8 damage.,,,
 arcade,,,Wretched,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Devour,When you kill another character heal for 3 damage.,,,
+dbz,,,Achiever,You win if you have given a green card to all survivors.,Exploration,You may add or subtract 1 to your location roll. You must reveal if given a green card.,,,
+dbz,,,Baldy,Kill a Shadow and survive,Destructo Disk,Your attack damage cannot be reduced.,,,
+dbz,,,Crane,You win if you have the most damage at the end of the game (you may tie).,Tri-Beam Cannon,At the start of your turn you may deal 1 damage to a target character and yourself.,,,
+dbz,,,Doomed,You win if you die first or die to your special ability.,Saiba Explosion,If another character would take fatal damage you may take that same amount.,,,
+dbz,,,Extraordinary,All of the Shadow characters are dead.,Special Beam Cannon,If a Shadow is on the same location as a Hunter or Neutral you may deal 3 damage to both of them.,,,
+dbz,,,Fearsome,All of the Shadow characters are dead.,Saiyan Pride,Choose another character. Neither of you can be targeted by anything except each others attacks and you can only attack each other.,,,
+dbz,,,Greatest,All of the Shadow characters are dead.,Kamehameha,At the start of your turn deal damage to a character outside your attack range equal to the amount of equipment cards you discard plus one. (Once per game),,,
+dbz,,,Ultimate,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Planet Buster,At the end of your turn remove all player tokens from the location cards. (Once per game),,,
+dbz,,,Vainglorious,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Perfection,Your attacks are always successful and deal at least one damage.,,,
+dbz,,,Wobbly,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Chocolate Beam,Choose another character. Until the end of their next turn they can't attack and take plus 1 damage from all sources. (Once per game),,,
+boobz_nsfw,,,A Cup,Survive with 3 Equipment,Absent Assets,You may only be attacked by characters with less Equipment than you,,,
+boobz_nsfw,,,B Cup,Get the final kill and be the only surviving Neutral,Bouncy Bosom,"When a character moves to your Location, you may move to the other Location in the Attack Range and resolve the Location",,,
+boobz_nsfw,,,C Cup,"Die first, or Survive with at most 1 other character",Cuddly Chest,"When you move, characters in your current Location may follow you.  If they don't, they take 1 damage",,,
+boobz_nsfw,,,D Cup,"The first time you kill a Shadow or Hunter, you gain their Win Condition and faction",Distracting Décolleté,You cannot be attacked by a character in the same Location as you,,,
+boobz_nsfw,,,E Cup,All Shadows are dead,Enormous Endowments,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) You may cancel an attack and heal the target by 1d4,,,
+boobz_nsfw,,,F Cup,All Shadows are dead,Fantastic Funbags,"When at the Underworld Gate, your attacks hit everyone",,,
+boobz_nsfw,,,G Cup,All Shadows are dead,Gigantic Gals,"While you have the most damage, your attacks deal +1 damage",,,
+boobz_nsfw,,,U Cup,All Hunters are dead or 3 Neutrals are dead,Undulating Udders,[color=white;dimgray](Start [color=white;dimgray]of [color=white;dimgray]turn) Heal a character in your Attack Range by 1,,,
+boobz_nsfw,,,V Cup,All Hunters are dead or 3 Neutrals are dead,Voluminous Vixen,"When you take damage, deal 1 damage to any characters in your Attack Range",,,
+boobz_nsfw,,,W Cup,All Hunters are dead or 3 Neutrals are dead,Wobbly Wall,"When a character rolls your Location during their movement phase, they must reroll",,,
 anime12,Megumin,Konosuba,Annihilator,You win if you kill a character other than yourself with your special ability.,Explosion!,"If you are not Exhausted at the start of your turn, you may roll both dice and deal 6 damage to all characters at the location rolled. You then become Exhausted. 
  
  Exhaustion wears off at the start of your turn, and is also removed when you heal with [color=white;cornflowerblue]Holy [color=white;cornflowerblue]Water.",Active/Passive,Exhaust,
@@ -358,6 +439,29 @@ new,,,Visitor,All of the Hunter characters are dead OR 3 Neutral characters are 
 new,,,Wizard,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Behold the Wizard's Magic!,"At the start of your turn, you can choose one of the following: 
  - Discard a Black card to deal 2 damage to any player, OR 
  - Discard a White card to heal 1 damage for any player",,,
+castlevania,,,Axe Knight,Be at the Church with the Axe when the game ends,Axe Throw,"When you have the [color=black;green]Axe, you may attack any Location",,,
+castlevania,,,Beelzebub,Get the final kill,Carrion Swarm,"When you draw a single-use [color=black;cornflowerblue]Black card, play it twice",,,
+castlevania,,,Ctulhu,"Die first, or survive with the least damage",Dark matter form,[color=black;cornflowerblue]Black single-use cards heal you instead of damaging you,,,
+castlevania,,,Doppelgänger,,Shapeshift,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game, [color=white;dimgray]Start [color=white;dimgray]of [color=white;dimgray]turn) Gain target character's Special Ability.  Set your damage to the target's damage.  You win if the target character loses",,,
+castlevania,,,Ectoplasm,All Shadows are dead,Cursed Body,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) After you take damage from an attack, choose a character.  Target character gets no damage bonus from Equipment",,,
+castlevania,,,Flea Man,All Shadows are dead,Can't hit me,Attack rolls that result in a 1 miss you,,,
+castlevania,,,Galamoth,All Shadows are dead,Royal Raiment,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Take the [color=white;darkgreen]Holy [color=white;darkgreen]Robe and the [color=white;darkgreen]Spear.  Shuffle the [color=white;dimgray]White deck,,,
+castlevania,,,Une,All Hunters are dead or 3 Neutrals are dead,Thorny,Reveal when another character moves to your Location.  Deal 1 damage to each character that moves to your Location,,,
+castlevania,,,Valhalla Knight,All Hunters are dead or 3 Neutrals are dead,I'm on a horse...err half a horse,You may roll twice for movement,,,
+castlevania,,,Warg,All Hunters are dead or 3 Neutrals are dead,Pursuit,"When someone leaves your Location, you may follow",,,
+robots2,,,Astro,Survive,Friendship,"When someone gives you a [color=green]Green card, instead of its normal effect, you heal for 1. 
+ You do this without revealing.",,,
+robots2,,,Bastard,"Be the only surviving Neutral (6+) 
+ Survive with 1 other character (5-)",Nosey,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game, [color=white;dimgray]Start [color=white;dimgray]of [color=white;dimgray]turn) Look at someone's character card.",,,
+robots2,,,Caster,Either no Shadows or no Hunters are dead when the game ends or be at Weird Woods when the game ends,System Infiltration,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Trade damage with someone,,,
+robots2,,,Dasher,Die first or survive alone,Race to the finish,"Reveal when someone dies. 
+ Numbers on your cards are +1",,,
+robots2,,,Elite,All Shadows are dead,Directive: Stab,"When rolling for movement, reroll until you get a Location where you can attack",,,
+robots2,,,Fearless,All Shadows are dead,Invincible,"+1 to numbers on the cards: [color=white;cornflowerblue]Holy [color=white;cornflowerblue]Robe, [color=white;cornflowerblue]Spear",,,
+robots2,,,Gigantic,All Shadows are dead,Size matters,Attackers in Locations with numbers lower than your Location deal -1 damage to Hunters,,,
+robots2,,,Undefeated,All Hunters are dead or 3 Neutrals are dead,Suppress,"[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) When an attack deals 2+ damage to you, disable the attacker's Special Ability",,,
+robots2,,,Victor,All Hunters are dead or 3 Neutrals are dead,Gambit,"When an attack deals 3+ damage to you, draw a [color=white;dimgray]Black card",,,
+robots2,,,Winner,All Hunters are dead or 3 Neutrals are dead,Countermeasures,"When an attack damages you, deal 1 damage to everyone at your Location",,,
 venture,,,Agents,You win if all characters have revealed before the end of the game.,Info Leak,"If you deal 3 or more damage to a character, you may force them to reveal.",,,
 venture,,,Bachelor,You win if you have the most Equipment cards at the end of the game.,Eat the Pennies Quizboy,"At the start of your turn, you may target a character who has Equipment cards. They take 2 damage and must discard an Equipment card of your choice. (Only once per game)",,,
 venture,,,Colleagues,You win if you are alive at the end of the game and have no Equipment cards.,Bleeding Us Dry,"You cannot draw from the Green deck while at the Underworld Gate (even while unrevealed). 
