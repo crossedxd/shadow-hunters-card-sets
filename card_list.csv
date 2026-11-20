@@ -108,8 +108,8 @@ anime4,Tatsuhiro,Welcome to the N.H.K.,Unemployed,All of the Hunter characters a
 anime4,Kaori,Your Lie in April,Violinist,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Moving Performance,"Once per game, all Shadows may heal 3 damage OR draw a card and resolve it. Afterwards, set your damage to 9.",Active,,
 anime4,Bondrewd,Made in Abyss,Wicked,All of the Hunter characters are dead OR 3 Neutral characters are dead.,Ghastly Experiments,"At the start of your turn, you may either: choose a target character with less than 7 damage and set their damage to 7, OR set your own damage to 7. (Only once per game)",Active,,
 noita2,,,Anger Spirit,Everyone has 7+ damage,Berserk Aura,All damage +1,,,
-noita2,,,Bloom,"Die first, or survive with at most 1 other character",,Your attacks deal 1d4 damage.  Heal 1 when you land on Hermit's Cabin or Erstwhile Altar.,,,
-noita2,,,Connoiseur,"Possess Spear, Handgun, and Machine Gun",Summon Taikasauva,"Reveal when you have any of your Win Condition cards. 
+noita2,,,Bloom,"Die first, or survive with at most 1 other character",Growth,Your attacks deal 1d4 damage.  Heal 1 when you land on Hermit's Cabin or Erstwhile Altar.,,,
+noita2,,,Connoiseur,"Possess [color=white;green]Spear, [color=black;green]Handgun, and [color=black;green]Machine [color=black;green]Gun",Summon Taikasauva,"Reveal when you have any of your Win Condition cards. 
  You may copy someone's Special Ability.",,,
 noita2,,,Delirium,Die from Events or kill everyone,Insubstantial,You are immune to attacks.  No one else may win while you are alive.,,,
 noita2,,,Eldari,All Shadows are dead,Fireball,"When you heal, deal 1d4 damage to someone.",,,
@@ -117,7 +117,7 @@ noita2,,,Fungus,All Shadows are dead,Poof,"Take 4 damage, deal 4 damage to every
 noita2,,,Great Thunder Mage,All Shadows are dead,Thunder Charge,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Everyone in your Attack Range takes 3 damage.,,,
 noita2,,,Ukkoshyypiö,All Hunters are dead or 3 Neutrals are dead,Thunder Circle,"When you take damage, everyone in your Location takes 2 damage.",,,
 noita2,,,Valhe,All Hunters are dead or 3 Neutrals are dead,Lie,You may lie on [color=white;green]Green cards,,,
-noita2,,,Warp,All Hunters are dead or 3 Neutrals are dead,,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Swap Locations with your attacker.  They take the damage instead of you.,,,
+noita2,,,Warp,All Hunters are dead or 3 Neutrals are dead,GODDAMNIT I HATE SWAPPERS!!!,[color=white;dimgray](Once [color=white;dimgray]per [color=white;dimgray]game) Swap Locations with your attacker.  They take the damage instead of you.,,,
 ferrets,,,Agro,Everyone has 7+ damage when the game ends.,War Dance,"[color=white;gray](Once [color=white;gray]per [color=white;gray]game) When an attack is declared, you may cause it to damage all characters",,,
 ferrets,,,Body Man,Die first,Body Block,"You may choose to be the target of an attack.  If you survive and prevent the game from ending, you win",,,
 ferrets,,,Collector,Survive or have at least 3 Equipment when you die,Recompense,"When someone attacks you and misses, you can steal an Equipment from them",,,
